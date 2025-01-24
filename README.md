@@ -1,1 +1,1 @@
-<h1 align="otvet_iq"</h1>
+<h1 align="center">OTVET_IQ</h1>
